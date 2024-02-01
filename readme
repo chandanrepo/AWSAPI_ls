@@ -1,0 +1,4 @@
+Ensure you have the AWS CLI installed and configured with appropriate permissions.
+Copy the script into a file, e.g., list_resources.sh.
+Make the script executable: chmod +x list_resources.sh.
+Run the script: ./list_resources.sh.
